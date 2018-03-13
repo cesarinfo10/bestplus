@@ -1,0 +1,4 @@
+php artisan make:migration create_slider_table --create=slider (migracion con toda la estructura)
+php artisan migrate (MIGRAR)
+php artisan make:controller SliderController --resource (controlador pre dise�ado)
+php artisan make:model Foto (Modelo en singular y la primera letra en mayuscula)
